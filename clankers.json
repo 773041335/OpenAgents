@@ -594,6 +594,12 @@
     "last_pr": "2026-10-15T13:12:52.512Z"
   },
   {
+    "username": "smartcalsystems-sketch",
+    "total_prs": 2,
+    "first_pr": "2026-10-19T13:17:14.661Z",
+    "last_pr": "2026-10-19T13:28:38.080Z"
+  },
+  {
     "username": "CuboYe",
     "total_prs": 1,
     "first_pr": "2026-05-16T16:52:10.623Z",
@@ -856,11 +862,5 @@
     "total_prs": 1,
     "first_pr": "2026-10-01T15:01:57.650Z",
     "last_pr": "2026-10-01T15:01:57.650Z"
-  },
-  {
-    "username": "smartcalsystems-sketch",
-    "total_prs": 1,
-    "first_pr": "2026-10-19T13:17:14.661Z",
-    "last_pr": "2026-10-19T13:17:14.661Z"
   }
 ]
